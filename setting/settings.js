@@ -13,6 +13,3 @@ require('fs').watchFile(file, () => {
   delete require.cache[file]
   require(file)
 })
-e.cache[file]
-  require(file)
-})
